@@ -129,6 +129,36 @@ I enjoy understanding the complete software development lifecycle — from desig
 
 ## 🚀 Featured Project
 
+### 2. CareerMate AI — AI-Powered Resume Screening & Career Assistance Platform
+
+**MCA Group Project | Team of 5**
+
+An AI-powered recruitment and career assistance platform designed to connect candidates and recruiters through automated resume analysis, job matching and career recommendations.
+
+**Key Features**
+- Candidate, Recruiter and Admin role-based authentication and access.
+- Resume upload and automated analysis.
+- NLP-based skill extraction and resume evaluation.
+- ATS scoring and resume improvement suggestions.
+- TF-IDF-based job matching and compatibility analysis.
+- Recruiter dashboard and applicant management.
+- Career recommendations and skill-gap analysis.
+
+**Technical Contributions**
+- Worked on Django application architecture and project setup using Cookiecutter.
+- Contributed to frontend development and backend integration.
+- Worked with Django models, views, application logic and ORM.
+- Contributed to authentication and role-based access functionality.
+- Worked on resume analysis and AI-based job matching components.
+- Integrated PostgreSQL for database management.
+- Worked with Docker for application containerization.
+- Contributed to AWS EC2 deployment and RDS PostgreSQL integration.
+- Coordinated code integration through Git and GitHub branching workflows.
+
+**Technology Stack**
+
+`Python` `Django` `HTML5` `CSS3` `JavaScript` `Bootstrap` `PostgreSQL` `Django ORM` `Scikit-learn` `NLP` `Docker` `AWS EC2` `AWS RDS`
+
 ### EduPlan — Academic Planner & Management Platform
 
 **Independent Full-Stack Development & Deployment Project**
@@ -149,8 +179,6 @@ Designed, developed and deployed a complete academic management web application 
 **Technology Stack**
 
 `Python` `Flask` `HTML5` `CSS3` `JavaScript` `Bootstrap` `SQLite` `SQLAlchemy`
-
-🔗 **Repository:** [Add your EduPlan repository URL here]
 
 ---
 
