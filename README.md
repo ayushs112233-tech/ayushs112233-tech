@@ -129,7 +129,7 @@ I enjoy understanding the complete software development lifecycle — from desig
 
 ## 🚀 Featured Project
 
-### 2. CareerMate AI — AI-Powered Resume Screening & Career Assistance Platform
+### CareerMate AI — AI-Powered Resume Screening & Career Assistance Platform
 
 **MCA Group Project | Team of 5**
 
