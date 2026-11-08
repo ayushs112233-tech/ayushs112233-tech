@@ -21,8 +21,6 @@
 ## 🧠 Featured Projects
 - 🤖 **CareerMate AI**: AI-powered resume screening and recruitment platform (Django, NLP, TF-IDF, Docker, AWS EC2, RDS PostgreSQL)
 - 📅 **EduPlan**: Academic planner and deadline tracker with role-based access (Flask, SQLite, SQLAlchemy)
-- 💳 **RupeeWave**: Banking backend, [live demo](https://rupeewave.vercel.app)
-- 🏍️ **PillionPal**: Ride-sharing backend, [live API](https://pillionpal-api.onrender.com)
 
 ## 📊 GitHub Stats & Trophies
 
